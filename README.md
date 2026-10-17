@@ -4,19 +4,19 @@ This theme was designed for Projek01 Users, you will find issues if you use it o
 
 Check it out in: https://projek01.neocities.org/
 
-Enable Themes ----------------------------------------------------------------------------------------------------------------
+- Enable Themes -
 
 Open about:config and activate "toolkit.legacyUserProfileCustomizations.stylesheets"
 
 *Warning* Nocturne can reactiave cleartype, disable it by typing in Run "cttune" and following the steps
 
-Installation ----------------------------------------------------------------------------------------------------------------
+- Installation -
 
 Put the Chrome Folder inside the current profile file (You can find it by clicking "Profile Folder" in about:support)
 
 Put the defaults folder and config.cfg inside Nocturne main file (replace all)
 
-Configuration ----------------------------------------------------------------------------------------------------------------
+- Configuration -
 
 In about:config make the following changes:
 
@@ -38,7 +38,7 @@ In Settings disable the following: *First two are related to issues i have with 
 -Recent searches
 -Suggest search engines to use
 
-Extra Steps ----------------------------------------------------------------------------------------------------------------
+- Extra Steps -
 
 - Title Replacement -
 
