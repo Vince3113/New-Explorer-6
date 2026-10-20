@@ -2,6 +2,8 @@ Welcome to New Explorer 6, a IE6 theme for Nocturne version 4.0.0
 
 This theme was designed for Projek01 Users, you will find issues if you use it outside it.
 
+*IMPORTANT* Dont use the portable version of Nocturne, use the installer version
+
 Check it out in: https://projek01.neocities.org/
 
 - Enable Themes -
